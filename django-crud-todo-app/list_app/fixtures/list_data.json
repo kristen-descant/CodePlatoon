@@ -1,0 +1,37 @@
+[
+{
+  "model": "list_app.list",
+  "pk": 3,
+  "fields": {
+    "list_name": "Tuesday"
+  }
+},
+{
+  "model": "list_app.list",
+  "pk": 4,
+  "fields": {
+    "list_name": "testingname"
+  }
+},
+{
+  "model": "list_app.list",
+  "pk": 5,
+  "fields": {
+    "list_name": "Thursday"
+  }
+},
+{
+  "model": "list_app.list",
+  "pk": 6,
+  "fields": {
+    "list_name": "Friday"
+  }
+},
+{
+  "model": "list_app.list",
+  "pk": 7,
+  "fields": {
+    "list_name": "New list test"
+  }
+}
+]

@@ -1,0 +1,83 @@
+[
+{
+  "model": "task_app.task",
+  "pk": 3,
+  "fields": {
+    "task_name": "Take out trash",
+    "completed": true,
+    "parent_list": 3
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 5,
+  "fields": {
+    "task_name": "Clean Car",
+    "completed": false,
+    "parent_list": 5
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 6,
+  "fields": {
+    "task_name": "Walk Dogs",
+    "completed": false,
+    "parent_list": 6
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 7,
+  "fields": {
+    "task_name": "anename",
+    "completed": false,
+    "parent_list": 4
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 8,
+  "fields": {
+    "task_name": "add1",
+    "completed": false,
+    "parent_list": 3
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 9,
+  "fields": {
+    "task_name": "add2",
+    "completed": false,
+    "parent_list": 3
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 10,
+  "fields": {
+    "task_name": "willthiswork",
+    "completed": false,
+    "parent_list": 3
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 11,
+  "fields": {
+    "task_name": "anothertest",
+    "completed": false,
+    "parent_list": 3
+  }
+},
+{
+  "model": "task_app.task",
+  "pk": 12,
+  "fields": {
+    "task_name": "anothertest",
+    "completed": false,
+    "parent_list": 3
+  }
+}
+]
